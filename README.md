@@ -45,18 +45,23 @@
 
 ![image](https://user-images.githubusercontent.com/24620178/212603999-cdf12e58-75fd-4260-bb93-4fbc8c5012cf.png)
 
-2. You'll need to buy a virtual number to receive the SMS from your recipients
+2. You'll need to buy a virtual number [here](https://dashboard.moceanapi.com/number/show) to receive the SMS from your recipients
+
+3. You can then select your virtual numbers in the `Virtual Numbers` dropdown menu
 
 ### Send SMS
 
 1. Our App will automatically populate the `Phone number` field if it detects a value in the specified `Phone Column`
-2. Compose the SMS you would like to send and click on Send SMS.
+2. Select the virtual number you owned in `Virtual Numbers` dropdown menu.
+3. Compose the SMS you would like to send and click on Send SMS.
+4. The SMS status will be shown at the bottom of the SMS card
 
-![image](https://user-images.githubusercontent.com/24620178/206369417-55a58754-64b9-4101-96b4-b3c1562edcab.png)
+![image](https://user-images.githubusercontent.com/24620178/212608210-6d3172c4-9142-49e3-9443-76b84479f931.png)
 
-3. The SMS status will be shown at the bottom of the App
-
-![image](https://user-images.githubusercontent.com/24620178/206369493-eccac45f-c0fb-4f5d-b42f-27e633f32c71.png)
+**SMS Statuses**
+- Pending = SMS is awaiting Delivery Report (SMS may have already been sent)
+- Fail = SMS failed to deliver
+- Success = SMS delivered
 
 ## Whitelist IP Address
 
