@@ -49,6 +49,16 @@
 
 3. You can then select your virtual numbers in the `Virtual Numbers` dropdown menu
 
+### Virtual Number
+
+1. Please buy a virtual number [here](https://dashboard.moceanapi.com/number/show) if you don't already have one.
+
+2. Login to [MoceanAPI Dashboard](https://dashboard.moceanapi.com) and navigate to [API Account](https://dashboard.moceanapi.com/user/apisetting) on the left navigation menu.
+ 
+3. Configure the **MO URL** to `https://monday.moceanapi.com/api/v1/receive_sms`
+
+![image](https://user-images.githubusercontent.com/24620178/213127689-2f8df906-99d3-4292-a640-7a37161d68df.png)
+
 ### Send SMS
 
 1. Our App will automatically populate the `Phone number` field if it detects a value in the specified `Phone Column`
