@@ -39,6 +39,25 @@
 
 6. After you've successfully authenticated, you will be redirected back to `monday.com`
 
+## Buy a Virtual Number (VLN)
+
+### Non United States (US) Virtual Number
+Follow the steps below to buy a non US virtual number
+1. Navigate to [Buy virtual number page](https://dashboard.moceanapi.com/number/show)
+2. Select the country of the virtual number you'd like to own
+
+![image](https://user-images.githubusercontent.com/24620178/220541278-a7a796a6-3858-4994-94df-0578e15d6ed8.png)
+
+3. After selecting your desired number, click on Buy
+
+![image](https://user-images.githubusercontent.com/24620178/220541846-631cba9a-163c-4469-abe5-8d1f01efc5c2.png)
+
+### United States (US) Virtual Number
+
+Follow the steps below to buy a US virtual number. We will guide you through the information required to own a US virtual number.
+
+TBA
+
 ## Usage
 ### Prerequisites
 1. Before you can send SMS, you will need to specify the `Phone column` in the settings
