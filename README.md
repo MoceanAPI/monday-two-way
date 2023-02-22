@@ -9,6 +9,7 @@
 
 ## Contents
 - [Installation](#installation)
+- [Buy a Virtual Number](#buy-a-virtual-number)
 - [Usage](#usage)
     - [Prerequisites](#prerequisites)
     - [Send SMS](#send-sms)
@@ -39,7 +40,7 @@
 
 6. After you've successfully authenticated, you will be redirected back to `monday.com`
 
-## Buy a Virtual Number (VLN)
+## Buy a Virtual Number
 
 ### Non United States (US) Virtual Number
 Follow the steps below to buy a non US virtual number
@@ -64,19 +65,9 @@ TBA
 
 ![image](https://user-images.githubusercontent.com/24620178/212603999-cdf12e58-75fd-4260-bb93-4fbc8c5012cf.png)
 
-2. You'll need to buy a virtual number [here](https://dashboard.moceanapi.com/number/show) to receive the SMS from your recipients
+2. You'll need to buy a virtual number [here](#buy-a-virtual-number) to receive the SMS from your recipients
 
 3. You can then select your virtual numbers in the `Virtual Numbers` dropdown menu
-
-### Virtual Number
-
-1. Please buy a virtual number [here](https://dashboard.moceanapi.com/number/show) if you don't already have one.
-
-2. Login to [MoceanAPI Dashboard](https://dashboard.moceanapi.com) and navigate to [API Account](https://dashboard.moceanapi.com/user/apisetting) on the left navigation menu.
- 
-3. Configure the **MO URL** to `https://monday.moceanapi.com/api/v1/receive_sms`
-
-![image](https://user-images.githubusercontent.com/24620178/213127689-2f8df906-99d3-4292-a640-7a37161d68df.png)
 
 ### Send SMS
 
@@ -91,6 +82,24 @@ TBA
 - Pending = SMS is awaiting Delivery Report (SMS may have already been sent)
 - Fail = SMS failed to deliver
 - Success = SMS delivered
+
+### Get notified on new SMS replies
+
+1. You will need to `Connect your monday.com account to MoceanAPI`
+2. Navigate to `Update API Credentials page`
+
+![image](https://user-images.githubusercontent.com/24620178/220545760-55f66576-0c32-4f3b-af67-bacc5af96339.png)
+
+3. Click on `Connect MoceanAPI`
+4. Continue the process until you're redirected back to the `Update API Credentials page`
+5. You can now proceed to `enable` or `disable` receiving notifications in monday.com on every SMS reply
+6. Configure the **Person Column** you'd like to receive notifications on every SMS replies
+
+![image](https://user-images.githubusercontent.com/24620178/220549544-89966ee0-6e78-46a2-b6f4-9113c3542359.png)
+
+7. Now just send the SMS as usual and we'll send you a `notification` in **monday.com** on every new SMS reply
+
+Want to get notified on other channels ? Talk to our [Support](#feature-request)
 
 ## Whitelist IP Address
 
