@@ -63,7 +63,7 @@ TBA
 ### Prerequisites
 1. Before you can send SMS, you will need to specify the `Phone column` in the settings
 
-![image](https://user-images.githubusercontent.com/24620178/212603999-cdf12e58-75fd-4260-bb93-4fbc8c5012cf.png)
+![image](https://user-images.githubusercontent.com/24620178/220550902-106c3c77-01f3-4da6-9b42-b0dfae30d21a.png)
 
 2. You'll need to buy a virtual number [here](#buy-a-virtual-number) to receive the SMS from your recipients
 
@@ -76,7 +76,7 @@ TBA
 3. Compose the SMS you would like to send and click on Send SMS.
 4. The SMS status will be shown at the bottom of the SMS card
 
-![image](https://user-images.githubusercontent.com/24620178/212608210-6d3172c4-9142-49e3-9443-76b84479f931.png)
+![image](https://user-images.githubusercontent.com/24620178/220551544-f31aea05-00b0-48ab-ae74-eb5747de21f7.png)
 
 **SMS Statuses**
 - Pending = SMS is awaiting Delivery Report (SMS may have already been sent)
