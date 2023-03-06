@@ -58,7 +58,7 @@ Follow the steps below to buy a non US virtual number
 
 Follow the steps below to buy a US virtual number. We will guide you through the information required to own a US virtual number.
 
-TBA
+1. Please contact our sales team [here](mailto:sales@moceanapi.com) for detailed configuration
 
 ## Usage
 ### Prerequisites
