@@ -12,7 +12,7 @@
 - [Buy a Virtual Number](#buy-a-virtual-number)
 - [Usage](#usage)
     - [Prerequisites](#prerequisites)
-    - [Test Two Way SMS](#test-two-way-sms)
+    - [Send Two Way SMS](#send-two-way-sms)
     - [Send SMS](#send-sms)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
@@ -70,7 +70,7 @@ Follow the steps below to buy a US virtual number. We will guide you through the
 
 3. You can then select your virtual numbers in the `Virtual Numbers` dropdown menu
 
-### Test Two Way SMS
+### Send Two Way SMS
 1. To `Test` two way sms, please contact our sales team [here](mailto:sales@moceanapi.com)
 
 ### Send SMS
