@@ -12,6 +12,7 @@
 - [Buy a Virtual Number](#buy-a-virtual-number)
 - [Usage](#usage)
     - [Prerequisites](#prerequisites)
+    - [Test Two Way SMS](#test-two-way-sms)
     - [Send SMS](#send-sms)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
@@ -68,6 +69,9 @@ TBA
 2. You'll need to buy a virtual number [here](#buy-a-virtual-number) to receive the SMS from your recipients
 
 3. You can then select your virtual numbers in the `Virtual Numbers` dropdown menu
+
+### Test Two Way SMS
+1. To `Test` two way sms, please contact our sales team [here](mailto:sales@moceanapi.com)
 
 ### Send SMS
 
