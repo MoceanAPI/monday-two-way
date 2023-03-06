@@ -44,6 +44,7 @@
 ## Buy a Virtual Number
 
 ### Non United States (US) Virtual Number
+**Important** Please contact our sales team [here](mailto:sales@moceanapi.com) to setup your two way sms
 Follow the steps below to buy a non US virtual number
 1. Navigate to [Buy virtual number page](https://dashboard.moceanapi.com/number/show)
 2. Select the country of the virtual number you'd like to own
