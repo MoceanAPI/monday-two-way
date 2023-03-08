@@ -14,6 +14,7 @@
     - [Prerequisites](#prerequisites)
     - [Send Two Way SMS](#send-two-way-sms)
     - [Send SMS](#send-sms)
+    - [Get notified on new SMS replies](#get-notified-on-new-sms-replies)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
 - [Feature Request](#feature-request)
