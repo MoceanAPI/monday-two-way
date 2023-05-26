@@ -123,29 +123,30 @@ To do so, follow these steps
 ![image](https://user-images.githubusercontent.com/24620178/200761674-1ccb6e6c-2d7b-499d-bef6-ee47a3e2a624.png)
 
 ## FAQ
-1. Can I get Test Credits ?
+1. **Can I get Test Credits ?**
 
 You can get 20 FREE credits and credits are valid for 14 days. Subject to approval.
 
-2. Can I send international messages?
+2. **Can I send international messages?**
 
 Yes. We are an international SMS provider. You can send out SMS both locally and internationally based on our price list.
 
-3. What is the maximum characters per SMS I can put into the message?
+3. **What is the maximum characters per SMS I can put into the message?**
 
 160 characters for a normal text message, 70 characters for a Unicode text message (Arabic, Chinese, and etc)
 
-4. Is there a limit to how many numbers I can send at one time?
+4. **Is there a limit to how many numbers I can send at one time?**
 
 There is no limit on numbers to be sent in one go.
 
-5. What format does my phone number need to be in?
+5. **What format does my phone number need to be in?**
 
 Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros.
 
-6. Can i receive updates and notifications in monday.com for every two way sms ?
+6. *Can i receive updates and notifications in monday.com for every two way sms ?**
 
 Yes, you can configure to receive notification and updates in monday.com for every sms responded by your client
+
 
 **Did not find what you're looking for ?**
 
