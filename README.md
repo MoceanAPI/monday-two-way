@@ -151,6 +151,25 @@ Mobile phone numbers need to be entered in international formatting with the cou
 
 The alpha sender ID can be a maximum of 11 characters, while the numeric sender can consist of up to 15 digits.
 
+9. **Can I utilize my personal mobile or landline number as the sender for SMS to the US?**
+
+No, it's necessary to purchase a dedicated number, such as a Toll-Free Number, and complete the use case verification process.
+
+10. **I attempted to send messages to US numbers, but they failed to be delivered. Why?**
+
+Message content that is not registered will result in a failure. To comply with US regulations, it's essential to buy a number and undergo a use case verification before you can send SMS to your customers.
+
+11. **How do I go about obtaining or purchasing a number in the US/Canada?**
+    
+a) Complete the number registration form available here. (link them to download the form) 
+b) Proceed with the payment.
+c) During the pending registration approval phase, a number will be provided for sending SMS on a smaller scale.
+d) After your registration is approved, you'll be able to send and receive SMS without volume limitations.
+
+12. **What is the expected timeframe for number approval?**
+
+The duration varies, but typically it takes approximately a month or less.
+
 ### SMS Compliance in United States (US)
 
 1. **SMS Compliance Guidelines**
